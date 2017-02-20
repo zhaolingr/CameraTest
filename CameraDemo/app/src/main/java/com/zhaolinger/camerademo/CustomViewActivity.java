@@ -31,7 +31,6 @@ public class CustomViewActivity extends AppCompatActivity {
 
     @Override
     public boolean dispatchTouchEvent(MotionEvent ev) {
-        //Log.i("test", "activity super.dispatchTouchEvent(ev)==" + super.dispatchTouchEvent(ev));
         return super.dispatchTouchEvent(ev);
     }
 
