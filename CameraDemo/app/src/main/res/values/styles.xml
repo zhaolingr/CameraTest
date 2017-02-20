@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="custom">
+        <item name="switch_state">true</item>
+    </style>
+
 </resources>

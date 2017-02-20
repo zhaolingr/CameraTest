@@ -3,7 +3,7 @@
  * Author: Zhao Linger.
  * DESTCRIBETION: Add content.
  */
-package com.zhaolinger.camerademo;
+package com.zhaolinger.customview;
 
 import android.content.Context;
 import android.util.AttributeSet;
